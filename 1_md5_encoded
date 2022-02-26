@@ -1,0 +1,299 @@
+<110 214 208 209 210 211 212 213 215 193>
+    <67><76><52><93 Id="Signature_FI02021000000005" 210>
+<86 210>
+<90 197 210/>
+<103 195 210/>
+<40 Id="Reference-Id-4a76707e-b372-4dbd-92ff-4f21a5ab066b" 198 URI="#Signed-Properties-Id-9b062e23-aba8-4681-b800-73140ec14665" 210>
+<46 196 210/>
+<17 210>U5WxrIZnPGURDyWHv7aHgxuddKJldFG0NW9f0ngaoUo=</17>
+</40>
+<40 Id="Reference-Id-5241fbb3-4e1f-4aa7-a648-89f01d8d90b9" URI="" 210>
+<87 210>
+<116 194 210/>
+</87>
+<46 196 210/>
+<17 210>k2cyeh4H5McyaeOUmc5xb1F95i2JonUzFO5Psf9QYDM=</17>
+</40>
+</86>
+<68 Id="Signature-Value-Id-fa380b1f-7005-49d2-9c86-634bbc7af674" 210>oFX3tEW6D+GnR/Ot530dDjOuaGa/yImyAQAscTXA+jt79BJJJixnwIJ54FN7N44bOOfpL5xlzoGz
+t7h3D2O0ikSz/gbxG//87i/TThYD7ZjJRihFAcqJBtlbgVqKxtLNTZblCbrihPGoxtxMZC9QENn6
+8VluINXlue+M/xckMtENybpoLJMxoESKdckTn2YZFCErGLU1jGfyNTkPYqlg3oZr0PgMaJ+AiY3W
+AQqJ4F+PbLYbYF64T4YhjekPPmo0WHiqJ57TSvbDHb2Oa9hMcEfIY5odv+NitMiKZJR+KRogxMRe
+EcXdL0tYcYxxz/2l3cuj5ovjw8PSSFEcat+lAw==</68>
+<99 210>
+<95 210>
+<63 210>MIIFxDCCBKygAwIBAgIIANlBXeIOJgEwDQYJKoZIhvcNAQELBQAwXDELMAkGA1UEBhMCVFIxTTBL
+BgNVBAMMRE1hbGkgTcO8aMO8ciBFbGVrdHJvbmlrIFNlcnRpZmlrYSBIaXptZXQgU2HEn2xhecSx
+Y8Sxc8SxIC0gU8O8csO8bSAyMB4XDTIwMDkyMTA5MzkyOFoXDTIzMDkyMTA5MzkyOFowazETMBEG
+A1UEBRMKMzg4MDcxODQ5NzFUMFIGA1UEAwxLRsSwVCBEQU5JxZ5NQU5MSUsgVkUgVEVLTk9MT0rE
+sCBCxLBMxLDFnsSwTSBIxLBaTUVUTEVSxLAgQU5PTsSwTSDFnsSwUktFVMSwMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEA966VKxda7Y4DNhoQsnF8oS8CPAs/ccHuuO+MVuROypjrsDJ+
+3AhN82ZD8jq1NmgU4kzFVDnRvuiFpt6OzivwgN/ytbF6CF9u3OwqVES61HlDHmBAvw2pM6CCp9IC
+mYmB87iVppT+aACRkUgd6AoaP1J8Ef2yxClM0cf4b6fMGuuALqtBx5fu+fUoBiAQCrzJ4Q2Cjkab
+jNp4X5YofhByQRYX5AZj+hX+c+zucN43FeVLxOoTRbhV3s+L51AAZyXKx2ykRM1kClNUGPvNNqfu
+QVoM4H5hTzpf3Ki8h8dffTOl32bkRxVbmnB/veg+cBBDylrvNc6L719OKmj2ckA6uQIDAQABo4IC
+eTCCAnUwHwYDVR0jBBgwFoAUA4T6lzHn9IcZL2Ur4bQbY6evdb4wHQYDVR0OBBYEFGgQHg3Nhr4f
+08qOvpH/xc04yMEwMA4GA1UdDwEB/wQEAwIHgDCCATMGA1UdIASCASowggEmMIIBIgYLYIYYAQIB
+AQUHBAEwggERMCoGCCsGAQUFBwIBFh5odHRwOi8vZGVwby5rYW11c20uZ292LnRyL2lsa2UwgeIG
+CCsGAQUFBwICMIHVHoHSAEIAdQAgAHMAZQByAHQAaQBmAGkAawBhACAAaQBsAGUAIABpAGwAZwBp
+AGwAaQAgAHMAZQByAHQAaQBmAGkAawBhACAAdQB5AGcAdQBsAGEAbQBhACAAZQBzAGEAcwBsAGEA
+cgExAG4BMQAgAG8AawB1AG0AYQBrACAAaQDnAGkAbgAgAGIAZQBsAGkAcgB0AGkAbABlAG4AIAB3
+AGUAYgAgAHMAaQB0AGUAcwBpAG4AaQAgAHoAaQB5AGEAcgBlAHQAIABlAGQAaQBuAGkAegAuMAwG
+A1UdEwEB/wQCMAAwFgYDVR0lBA8wDQYLYIYYAQIBAQUHMgEwQQYDVR0fBDowODA2oDSgMoYwaHR0
+cDovL2RlcG8ua2FtdXNtLmdvdi50ci9rdXJ1bXNhbC9tbWVzaHMtczIuY3JsMIGCBggrBgEFBQcB
+AQR2MHQwPAYIKwYBBQUHMAKGMGh0dHA6Ly9kZXBvLmthbXVzbS5nb3YudHIva3VydW1zYWwvbW1l
+c2hzLXMyLmNydDA0BggrBgEFBQcwAYYoaHR0cDovL2Npc2R1cG1tczIua3VydW1zYWwua2FtdXNt
+Lmdvdi50cjANBgkqhkiG9w0BAQsFAAOCAQEAN3wosCxgHtHIp5aVaKrMngRfCqmBGRQD4508vkoI
+tTpb5vdgiQWBm+5FzRs8H65yswY8QQgeHk90jOpXc2/TE4E5AWrziG0Ongb0BpfYse1R8s9hen8j
+EmRpRVF4MY2zl4Id1MYgE7ydI+fcPjOv5AGSR0yNe7E2nZStB7258CPWb1gqx3DFamSoEkAZDzbH
+f2q85pblR1zPi1PKrwBLkT97/hb4MiBxfIbMqVBRI+A44G9ihD3gEiA0lpWIaydGC62KABxGjXGl
+tHuaHiln3VXQQLpLu5+NeQBooUii5DrEw+WOLwIRyy0LSVwlQUxar6FHkDFwEgW8V/u90ux6kg==</63>
+</95>
+<96 210>
+<83 210>
+<100>APeulSsXWu2OAzYaELJxfKEvAjwLP3HB7rjvjFbkTsqY67AyftwITfNmQ/I6tTZoFOJMxVQ50b7o
+habejs4r8IDf8rWxeghfbtzsKlREutR5Qx5gQL8NqTOggqfSApmJgfO4laaU/mgAkZFIHegKGj9S
+fBH9ssQpTNHH+G+nzBrrgC6rQceX7vn1KAYgEAq8yeENgo5Gm4zaeF+WKH4QckEWF+QGY/oV/nPs
+7nDeNxXlS8TqE0W4Vd7Pi+dQAGclysdspETNZApTVBj7zTan7kFaDOB+YU86X9yovIfHX30zpd9m
+5EcVW5pwf73oPnAQQ8pa7zXOi+9fTipo9nJAOrk=</100>
+<97>AQAB</97>
+</83>
+</96>
+</99>
+<104 Id="Object-Id-4f01ee9d-eb2d-4b60-bbb1-33dfd7818398" 210><39 Target="#Signature_FI02021000000005" 212>
+<47 Id="Signed-Properties-Id-9b062e23-aba8-4681-b800-73140ec14665" 212>
+<28 212>
+<69 212>2021-03-22T13:56:40.072+03:00</69>
+<41 212>
+<101 212>
+<77 212>
+<46 196 210/>
+<17 210>AJra3/L9lEdDBsDSjytVYQldn5BD2I2M+ZvTmLgHzs4=</17>
+</77>
+<64 212>
+<70 210>CN=Mali Mühür Elektronik Sertifika Hizmet Sağlayıcısı - Sürüm 2,C=TR</70>
+<56 210>61151941426554369</56>
+</64>
+</101>
+</41>
+<78 212>
+<65 212>
+<71 212>Supplier</71>
+</65>
+</78>
+</28>
+<34 212>
+<55 ObjectReference="#Reference-Id-5241fbb3-4e1f-4aa7-a648-89f01d8d90b9" 212>
+<91 212>text/xml</91>
+</55>
+</34>
+</47>
+</39>
+</104>
+</93></52></76></67><79>2.1</79>
+    <57>TR1.2</57>
+    <88>KAMU</88>
+    <5>FI02021000000005</5>
+    <72>false</72>
+    <106>000D3A2B-F77F-1EEB-A2DF-A6F0993D1A17</106>
+    <15>2021-03-22</15>
+    <117>00:00:00</117>
+    <58>SATIS</58>
+    <35 languageID="T">SUM:Mal/Hizmet Toplam Tutari : 100,00 TRY</35>
+    <35 languageID="T">SUM:Toplam Iskonto : 0,00 TRY</35>
+    <35 languageID="T">SUM:Vergiler Hariç Toplam Tutar : 100,00 TRY</35>
+    <35 languageID="T">SUM:KDV Tutarı % 18 : 18,00 TRY</35>
+    <35 languageID="T">SUM:Vergiler Dahil Toplam Tutar : 118,00 TRY</35>
+    <35 languageID="T">SUM:Ödenecek Toplam Tutar : 118,00 TRY</35>
+    <35 languageID="T">UPHR:Sicil No:666666</35>
+    <35 languageID="T">UPHR:İşletme Merkezi:maltepe</35>
+    <42>TRY</42>
+    <53>1</53>
+    <6>
+        <5>TRTET</5>
+        <15>2021-03-22</15>
+        <54>FATURANO</54>
+    </6>
+    <6>
+        <5>A1</5>
+        <15>2021-03-22</15>
+        <23>XSLT</23>
+        <54>XSLT</54>
+        <84>
+            <26 199 201 filename="FI02021000000005.XSLT" 202>15588b3a430c0ed59234d62baa56460e</26>
+        </84>
+    </6>
+    <89>
+        <5 206>3880718497</5>
+        <66>
+            <43>www.fitsolutions.com.tr</43>
+            <1>
+                <5 205>3880718497</5>
+            </1>
+            <19>
+                <2>FIT DANISMANLIK VE TEKNOLOJI BILISIM HIZMETLERI A.S.</2>
+            </19>
+            <10>
+                <94>45</94>
+                <21>Öz Sokak</21>
+                <38>Gold Plaza</38>
+                <18>19</18>
+                <3>Altayçesme Mahellesi</3>
+                <20>ISTANBUL</20>
+                <25>34843</25>
+                <80>Marmara</80>
+                <22>
+                    <2>TÜRKIYE</2>
+                </22>
+            </10>
+            <32>
+                <33>0(216) 445 93 79</33>
+                <62>0(216) 445 92 87</62>
+                <16>muhasebe@fitcons.com</16>
+            </32>
+        </66>
+        <30>
+            <51>
+                <109>#Signature_FI02021000000005</109>
+            </51>
+        </30>
+    </89>
+    <36>
+        <59>
+            <43>www.fitcons.com</43>
+            <1>
+                <5 205>1234567801</5>
+            </1>
+            <19>
+                <2>FIT Bilgi İşlem A.Ş.</2>
+            </19>
+            <10>
+                <21>Öz Sokak</21>
+                <38>GOLD PLAZA</38>
+                <18>19</18>
+                <3>Maltepe</3>
+                <20>İstanbul</20>
+                <25>34555</25>
+                <22>
+                    <2>Türkiye</2>
+                </22>
+            </10>
+            <24>
+                <7>
+                    <2>Küçükyalı V.D.</2>
+                </7>
+            </24>
+            <32>
+                <33>02123663575</33>
+                <62>02121234567</62>
+                <16>info@fitcons.com</16>
+            </32>
+        </59>
+    </36>
+    <37>
+        <59>
+            <1>
+                <5 205>1234567801</5>
+            </1>
+            <19>
+                <2>TEST MÜKELLEFİ</2>
+            </19>
+            <10>
+                <94>3</94>
+                <21>cadde</21>
+                <18>33</18>
+                <3>darıca</3>
+                <20>kocaeli</20>
+                <25>33444</25>
+                <22>
+                    <2>tükiye</2>
+                </22>
+            </10>
+            <24>
+                <7>
+                    <2>test</2>
+                </7>
+            </24>
+            <32>
+                <33>05556669966</33>
+                <62>05556669966</62>
+                <16>tayfun@tayfun.com</16>
+            </32>
+        </59>
+    </37>
+    <141>
+        <59>
+            <1>
+                <5 205>1234567801</5>
+            </1>
+            <10>
+                <3/>
+                <20/>
+                <22>
+                    <2/>
+                </22>
+            </10>
+        </59>
+    </141>
+    <120>
+        <114>42</114>
+        <108>
+            <5>TR330006100519786457841326</5>
+            <124>TRY</124>
+        </108>
+    </120>
+    <60>
+        <61>false</61>
+        <102 200>0.00</102>
+        <105 200>0.00</105>
+    </60>
+    <31>
+        <4 200>18.00</4>
+        <13>
+            <12 200>100.00</12>
+            <4 200>18.00</4>
+            <8>1</8>
+            <27>18.00</27>
+            <14>
+                <7>
+                    <2>KATMA DEGER VERGISI</2>
+                    <11>0015</11>
+                </7>
+            </14>
+        </13>
+    </31>
+    <48>
+        <9 200>100.00</9>
+        <49 200>100.00</49>
+        <50 200>118.00</50>
+        <82 200>0.00</82>
+        <112 200>0.00</112>
+        <73 200>118.00</73>
+    </48>
+    <44>
+        <5>000001</5>
+        <29 207>1</29>
+        <9 200>100.00</9>
+        <31>
+            <4 200>18</4>
+            <13>
+                <12 200>100.00</12>
+                <4 200>18.00</4>
+                <8>1</8>
+                <27>18.00</27>
+                <14>
+                    <7>
+                        <2>KATMA DEGER VERGISI</2>
+                        <11>0015</11>
+                    </7>
+                </14>
+            </13>
+        </31>
+        <92>
+            <2>asda</2>
+        </92>
+        <85>
+            <45 200>100</45>
+        </85>
+    </44>
+</110>
